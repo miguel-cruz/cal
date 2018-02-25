@@ -1,0 +1,2 @@
+Educational GIT project.
+
